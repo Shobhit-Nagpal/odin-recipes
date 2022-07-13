@@ -1,0 +1,17 @@
+* {
+    background-color: #1c1c1c;
+    color: white;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.links {
+    font-size: 30px;;
+}
